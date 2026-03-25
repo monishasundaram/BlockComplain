@@ -1,5 +1,5 @@
 # BlockComplain
-# 🔐 Blockchain-Based Tamper-Proof Complaint System
+#  Blockchain-Based Tamper-Proof Complaint System
 
 ##  Project Overview
 
@@ -83,6 +83,6 @@ B.Tech IT Student
 
 ---
 
-## 📜 License
+##  License
 
 This project is created for academic and hackathon purposes.
